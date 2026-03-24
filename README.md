@@ -2,7 +2,7 @@
 
 A **gesture-based music synthesizer** that empowers users to create real-time audio and music using physical movements. It utilizes sensor data and intuitive hardware interactions to drive powerful sound synthesis.
 
-Checkout the [Official Website](https://darke0-0.github.io/air-synth/) for more details and demonstrations!
+Checkout the [Official Website](https://darke0-0.github.io/AirSynth/) for more details and demonstrations!
 
 ## 🌟 Key Features
 
@@ -48,7 +48,7 @@ Ensure you have the following dependencies installed on your system (specificall
 
 > **Important:** The sensors (MPU6050) and physical buttons **must** be connected to the Raspberry Pi's GPIO pins before launching the executable.
 
-Please see the [Hardware Section on the Wiki](https://github.com/darke0-0/air-synth/wiki#hardware) for the complete circuit diagram and pinout instructions.
+Please see the [Hardware Section on the Wiki](https://github.com/Darke0-0/AirSynth/wiki#hardware) for the complete circuit diagram and pinout instructions.
 
 Once built and hardware is connected, launch the synthesizer:
 ```bash
