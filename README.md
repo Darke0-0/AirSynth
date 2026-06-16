@@ -4,6 +4,8 @@ A **gesture-based music synthesizer** that empowers users to create real-time au
 
 Checkout the [Official Website](https://darke0-0.github.io/AirSynth/) for more details and demonstrations!
 
+![Air Synth Trial](assets/AirsynthTrial.mp4)
+
 ## 🌟 Key Features
 
 * **Real-Time Audio Synthesis:** Utilizes `RtAudio` and `STK` (Synthesis ToolKit) for low-latency, dynamic sound generation.
